@@ -1,6 +1,5 @@
 # [Gobuster: The Basics | TryHackMe Write-Up](https://tryhackme.com/room/gobusterthebasics)
 ![Uses Gobuster](https://img.shields.io/badge/Uses-Gobuster-blueviolet?style=flat&logo=go)
-
 This room focuses on an introduction to Gobuster, an offensive security tool used for enumeration.
 
 
